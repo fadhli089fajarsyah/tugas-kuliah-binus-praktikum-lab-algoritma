@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // inport libary untuk input dan output
 
 int main()
 {
